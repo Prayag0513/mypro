@@ -1,0 +1,17 @@
+.card{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 70px;
+    background-color: rgb(172, 217, 202);
+}
+.header{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(7px); 
+    z-index: -2; 
+    
+}

@@ -1,0 +1,20 @@
+.header{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "https://cdn.pixabay.com/photo/2016/08/24/16/20/books-1617327_640.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(7px); 
+    z-index: -2; 
+    
+}
+.card{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 70px;
+    background-color: rgb(172, 217, 202);
+}
+p{
+    margin-top: 40px
+}

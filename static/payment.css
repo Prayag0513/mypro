@@ -1,0 +1,11 @@
+.header{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "https://cdn.pixabay.com/photo/2017/11/08/22/26/rupee-2931876_1280.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(7px); 
+    z-index: -2; 
+    
+}

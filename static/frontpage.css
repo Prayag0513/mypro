@@ -1,0 +1,21 @@
+.card{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 200px;
+    background-color: rgb(172, 217, 202);
+}
+.header{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "https://cdn.pixabay.com/photo/2022/08/30/20/47/institute-7421918_1280.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(7px); 
+    z-index: -2; 
+    
+}
+h1{
+    font-size: 400%;
+    color: whitesmoke;
+}
